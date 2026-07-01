@@ -56,4 +56,4 @@ You can also track upcoming changes using the [awaiting-deployment](https://gith
 [self-hosted runners]: https://help.github.com/en/actions/hosting-your-own-runners
 
 ## Software and image guidelines
-To learn more about tools and images support policy, see the [guidelines](./docs/software-and-images-guidelines.md).
+To learn more about tools and images support policy, see the [guidelines](./docs/software-and-images-guidelines.md).f373a6e9e427b41a0e8bc0a80e4157064b986d66
